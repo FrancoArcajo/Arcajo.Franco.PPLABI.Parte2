@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1621973210 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"clientes.h"
+
+1621988278 c:\users\blodrs\desktop\parcialnotebook\parcialnote\clientes.h
+
+1622007951 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"menu.h"
+	"notebooks.h"
+	"trabajos.h"
+
+1621985508 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marcas.h"
+	"notebooks.h"
+	"tipos.h"
+
+1621983053 c:\users\blodrs\desktop\parcialnotebook\parcialnote\marcas.h
+
+1622004668 c:\users\blodrs\desktop\parcialnotebook\parcialnote\notebooks.h
+	"tipos.h"
+	"clientes.h"
+	"marcas.h"
+
+1621980420 c:\users\blodrs\desktop\parcialnotebook\parcialnote\tipos.h
+
+1622031449 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicios.h"
+	"trabajos.h"
+
+1622031442 c:\users\blodrs\desktop\parcialnotebook\parcialnote\servicios.h
+
+1621980913 c:\users\blodrs\desktop\parcialnotebook\parcialnote\trabajos.h
+	"fecha.h"
+	"notebooks.h"
+	"servicios.h"
+	"tipos.h"
+	"marcas.h"
+	"clientes.h"
+
+1621969896 c:\users\blodrs\desktop\parcialnotebook\parcialnote\fecha.h
+
+1622031791 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebooks.h"
+	"trabajos.h"
+	"tipos.h"
+	"marcas.h"
+	"servicios.h"
+	"clientes.h"
+	"informes.h"
+	"menu.h"
+
+1621995918 c:\users\blodrs\desktop\parcialnotebook\parcialnote\informes.h
+	"trabajos.h"
+	"notebooks.h"
+	"tipos.h"
+	"marcas.h"
+	"servicios.h"
+	"clientes.h"
+	"fecha.h"
+	"validaciones.h"
+
+1621982374 c:\users\blodrs\desktop\parcialnotebook\parcialnote\menu.h
+
+1621996892 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"ctype.h"
+	<string.h>
+	"menu.h"
+	"validaciones.h"
+
+1622031365 c:\users\blodrs\desktop\parcialnotebook\parcialnote\validaciones.h
+	"fecha.h"
+	"servicios.h"
+	"notebooks.h"
+
+1621980390 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipos.h"
+	"notebooks.h"
+	"marcas.h"
+
+1622032439 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajos.h"
+	"validaciones.h"
+	"dataStoreTrabajo.h"
+
+1622033820 c:\users\blodrs\desktop\parcialnotebook\parcialnote\datastoretrabajo.h
+	"fecha.h"
+
+1622031277 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"fecha.h"
+
+1622035680 source:c:\users\blodrs\desktop\parcialnotebook\parcialnote\notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebooks.h"
+	"tipos.h"
+	"marcas.h"
+	"validaciones.h"
+	"dataStore.h"
+
+1622037697 c:\users\blodrs\desktop\parcialnotebook\parcialnote\datastore.h
+	"fecha.h"
+
